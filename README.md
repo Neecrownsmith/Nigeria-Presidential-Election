@@ -10,7 +10,7 @@ The analysis of the election results can be found in the dashboard.png file. It 
 * Nigeria Presidential Election Analysis.ipynb
 * election.csv
 * dashboard.png
-* Inference.txt
+
 
 ## Instructions
  To replicate the analysis, follow these steps:
@@ -26,7 +26,7 @@ The analysis of the election results can be found in the dashboard.png file. It 
 5. Read the Inference.txt file for insights into the election results.
 
 ## Conclusion
-This project provides an analysis of the 2023 Nigerian Presidential Election results. The code and data used in the analysis are available for replication, and the Inference.txt file provides insights into the election outcome. Feedback and suggestions are welcomed.
+This project provides an analysis of the 2023 Nigerian Presidential Election results. Feedback and suggestions are welcomed.
 
 
 
