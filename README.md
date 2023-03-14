@@ -3,7 +3,7 @@ This project analyzes the results of the Nigerian Presidential Election held on 
 
 I also downloaded the Nigeria shapefile from https://drive.google.com/file/d/1jYzwKvTsVaJe5Z3Rb0zpALC7HWmtngDk/view, which was used to create visualizations of the election results. The process for creating the visualizations is outlined in the Nigeria Presidential Election Analysis.ipynb notebook, and the resulting image is saved as dashboard.png.
 
-The analysis of the election results can be found in the Inference.txt file. It includes insights into the voter turnout, the distribution of votes by region, and the winning candidate's margin of victory.
+The analysis of the election results can be found in the dashboard.png file. It includes insights into the voter turnout, the distribution of votes by region, and the winning party.
 
 ## Files
 * Nigeria Presidential Election Data Scraper.ipynb
